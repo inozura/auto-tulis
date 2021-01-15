@@ -1,10 +1,11 @@
 # Tulisno
-<h1 align="center">Tulisno</h1>
+<h1 align="center">Auto Tulis</h1>
 
 <p>
- Tulisno is a website for generating writings into books.
+ Web converter ketikan manual ke kertas folio
 </p>
-Demo: http://tulisno.vercel.app/
+
+Demo: https://autotulis.vercel.app/
 <br>
 
 ![Tulisno Preview](https://i.imgur.com/2XU2qYo.png)
